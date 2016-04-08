@@ -17,8 +17,8 @@ Download the program, and execute it with python.
 ```bash  
 $ git clone https://github.com/Manwholikespie/QuizLearn.git  
 $ cd QuizLearn  
-$ python quiz.py```
-
+$ python quiz.py  
+```
 
 From here, all that's left to do is paste in the url of the quizlet you want to index and hit Enter.
 

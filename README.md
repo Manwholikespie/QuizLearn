@@ -8,8 +8,10 @@ Given that you are on Github looking at programs made with python, I am going to
 
 Now, fire up Terminal and download a few libraries with the python package manager (pip). We will use libraries these to grab data from the quizlet and mnemonicdictionary websites.
 
-`$ pip install beautifulsoup4`  
-`$ pip install requests`
+```bash  
+$ pip install beautifulsoup4  
+$ pip install requests  
+```
 
 ## Usage
 Download the program, and execute it with python.

@@ -14,14 +14,15 @@ Now, fire up Terminal and download a few libraries with the python package manag
 ## Usage
 Download the program, and execute it with python.
 
-```bash
+```bash  
 $ git clone https://github.com/Manwholikespie/QuizLearn.git  
-$ cd QuizLearn
+$ cd QuizLearn  
 $ python quiz.py```
 
-From here, all that's left to do is paste in the url of the quizlet you want to index and hit Enter.
-![image](http://i.imgur.com/XxOqmK3.png)
 
+From here, all that's left to do is paste in the url of the quizlet you want to index and hit Enter.
+
+![image](http://i.imgur.com/XxOqmK3.png)
 
 ## Upcoming Features:
 - Generate notecard images
